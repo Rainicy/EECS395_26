@@ -1,0 +1,118 @@
+
+*{margin:0;padding:0}:focus,:active {outline:0}img{border: 0}
+
+body { 
+font: .8em Arial, Tahoma, Verdana; 
+background: #fff url(../img/bg.gif) 
+repeat-x; 
+color: #777; }
+
+a { 
+text-decoration: none; 
+color: #B20F0F; }
+
+h1 { 
+font-size: 1.4em; 
+color: #B20F0F;}
+
+h1 a { 
+font-size: 1.6em; 
+color: #B20F0F;}
+	
+h2 { 
+font-size: 1em;  }
+
+h3 { 
+font-size: 1.2em; 
+background: #B00A0A url(../img/redbg.gif) repeat-x left bottom; 
+padding: 6px 7px; 
+color: #fff; 
+font-weight: normal; 
+margin: 0 0 15px; 
+float: left; }
+
+h4 { 
+margin: 0 0 15px; 
+color: #555; 
+font-weight: normal; 
+font-size: 1.6em; 
+font-weight: normal; }
+
+p { 
+clear: both; 
+line-height: 1.64em; 
+margin: 0 0 15px; }
+
+.line { 
+clear: both; 
+border-bottom: 1px solid #ddd; 
+margin: 0 0 45px; }
+
+.clear { 
+clear: both; }
+
+#content { 
+width: 970px; 
+margin: 0 auto; }
+
+	#top { 
+	color: #ccc; 
+	padding: 6px 20px 0; 
+	font-size: .84em; 
+	text-align: right; }
+	
+	#logo { 
+	float: left; 
+	background: url(../img/RefineLogo.jpg) no-repeat; 
+	height: 100px;
+	width: 375px;
+	padding: 10px 10px 10px 10px; 
+	margin: 10px 0 0 0; }
+		
+	#menu { 
+	float: right; 
+	margin: 63px 20px 0; }
+	
+		#menu li { 
+		display: inline; 
+		font-size: 1.3em; }
+		
+			#menu li a { 
+			float: left;
+			color: #808080; 
+			padding: 0 0 5px; 
+			margin: 0 0 0 55px; }
+			
+			#menu li a:hover, #menu li.current a, #menu li a:focus { 
+			color: #000; 
+			border-bottom: 1px solid #ddd; }
+			
+	#pitch { 
+	background: url(../img/contact.jpg) no-repeat right top;
+	padding: 30px 500px 30px 0; 
+	height: 450px; 
+	margin: 0 0 35px; }
+	
+		#pitch h1 { 
+		font-size: 2.6em; 
+		color: #B20F0F; 
+		margin: 0 0 20px; }
+		
+		#pitch h2 { 
+		line-height: 1.5em;  
+		color: #000000; }
+		
+	.left { float: left; width: 250px; }	
+	.right { float: right; width: 630px; margin: 0 0 20px; }
+	.right h3 { background: #808080; font-size: .84em; }
+	.third { float: left; width: 296px; margin: 0 40px 20px 0; }
+	.last { margin-right: 0; }
+	
+		
+		
+	#footer { 
+	clear: both; 
+	font-size: .84em; 
+	border-top: 1px 
+	solid #ddd; 
+	padding: 20px 0 0; }

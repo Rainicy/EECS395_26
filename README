@@ -1,0 +1,36 @@
+Public git repository on Assembla for EECS 395 - Innovation in Technology and Journalism
+
+Instructors:
+  Larry Birnbaum
+  Rich Gordon
+
+Team Members:
+  Alex Madjar
+  Josiah Matlack
+  Marisa Paulson
+  Ali Pisano
+
+Project:
+  Refine (Better commenting)
+
+Use:
+    To get a local copy of our code, simply run `git clone
+    git@git.assembla.com:EECS395_26.git` into a local directory. Our repository
+    is now open to the public for view access.
+
+    If you wish to make edits, you will need to download Heroku Toolbelt (https://toolbelt.heroku.com/),
+    Django using pip (https://docs.djangoproject.com/en/dev/topics/install/?from=olddocs#install-the-django-code,
+    look for the section entitled "Installing an official release with PIP"),
+    and have at least Python version 2.6.
+    
+    Heroku also requires setting up a project space, to which we can add new members.
+    Alternatively, you can establish your own project space at: http://www.heroku.com/.
+
+    Our system is setup in Django, a Python-based web framework. Knowledge of
+    Python, HTML, CSS, and JavaScript is crucial in order to make meaningful
+    edits to our code.
+
+    We recommend getting familiar with Django and Heroku in order to have
+    a complete system like the one found at refinecomments.herokuapp.com. User
+    guides and walkthroughs on both of these systems can be found at their
+    respective websites.
